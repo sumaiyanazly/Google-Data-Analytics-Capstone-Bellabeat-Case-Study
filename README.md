@@ -117,7 +117,7 @@ Fig 1. Pivot table - User Activity
 <img width="392" height="266" alt="image" src="https://github.com/user-attachments/assets/72a9f1f9-1d12-4219-b319-54485543891f" />
 
 
-Fig 1. Pivot table - Sleep Minutes 
+Fig 2. Pivot table - Sleep Minutes 
 
 
 
