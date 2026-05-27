@@ -76,6 +76,9 @@ For this project, I chose to use Google Sheets as the primary processing tool. W
 
 It also ensures that the data can be easily understood by non-technical stakeholders, bridging the gap between raw backend data and final executive reporting.
 
+
+## 3. Process
+
 ### Data Cleaning & Transformation Steps
 
 **Data Normalization**: I aligned inconsistent Date/Time formats across datasets by separating the timestamps and applying standardized date formatting to ensure valid data merging.
@@ -91,11 +94,15 @@ It also ensures that the data can be easily understood by non-technical stakehol
 
 Now that the data has been cleaned and normalised, I can look for trends and relationships within the dataset 
 
-**Analysis 1- User Activity levels across the week**
+### Analysis 1- User Activity levels across the week
 From this analysis, I am able to see that there is a distinct flucuation between the user activity throught the week
 
 **Trend 1** : User Activity peaked on Saturdays and the lowest point was to be found on Sundays 
+
+
 **Buisness Insight** : This slump may suggest that users may priortize rest or may have different routines at the end of the week.
+
+
 **Marketing Reccomendation** : Bellabeat could use this insights to promote a more relaxed approach such as a "Sunday Reset" notifiation to encourage the users to do some light activities such as yoga to increase app engagement.
 
 <img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/6723464a-0486-44ed-b9fc-0738dd316d61" />
