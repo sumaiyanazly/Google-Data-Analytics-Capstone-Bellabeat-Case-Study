@@ -33,14 +33,35 @@ This case study follows the 6 steps of the Data Analysis process: ASK, PREPARE, 
 Identify ways in which users use non-Bellabeat smart devices and then select 1 product to apply the insights into the final presenation
 
 ### Analysis Questions 
-1. What are some trends in smart device usage?
 "The goal of this analysis is to identify trends in how consumers use non-Bellabeat smart devices. These insights will be applied to [Insert Chosen Product Name] to provide high-level recommendations for Bellabeat's marketing strategy, ultimately helping the company unlock new growth opportunities."
 
-2. How could these trends apply to Bellabeat customers?
-3. How could these trends help influence Bellabeat marketing strategy?
+### Key Stakeholders
+1. Urška Sršen and Sando Mur:
+2. Bellabeat marketing analytics team
+3. Bellabeat Executives 
 
-### Stakeholder
-1. Founders 
-2. Bellabeat Executives
-3. Marketing Analytics Team 
+
+**Data Source**: The data used for this project is the [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit?resource=download) dataset that was made available through [Mobius](https://www.kaggle.com/arashnic) via Kaggle.
+
+**Licensing** : [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**Reliable**: 30 users Fitbit Users have consented to the submission of their personal data to be used and does not contain any personal identifiable information such as their height, profession, gender, etc..
+
+**Comprehensive**: It contains information about the minute-level details and daily output of the user's heart rate, sleep monitoring, physical activity and calories
+
+Note: While the data is from 2016, the behavioral patterns regarding sedentary activity and sleep remain relevant for current market trends.
+
+
+## 2.Prepare
+After downloading data, I was able to extract it and saw that there were 18 csv files in total, but I am choosing to focus on these 6:
+
+dailyActivity_merged.csv
+dailyCalories_merged.csv
+dailyIntensities_merged.csv
+dailySteps_merged.csv
+sleepDay_merged.csv
+weightLogInfo_merged.csv
+
+
+
 
