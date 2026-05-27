@@ -33,7 +33,7 @@ This case study follows the 6 steps of the Data Analysis process: ASK, PREPARE, 
 Identify ways in which users use non-Bellabeat smart devices and then select 1 product to apply the insights into the final presenation
 
 ### Analysis Questions 
-"The goal of this analysis is to identify trends in how consumers use non-Bellabeat smart devices. These insights will be applied to [Insert Chosen Product Name] to provide high-level recommendations for Bellabeat's marketing strategy, ultimately helping the company unlock new growth opportunities."
+The goal of this analysis is to identify trends in how consumers use non-Bellabeat smart devices. These insights will be applied to [Insert Chosen Product Name] to provide high-level recommendations for Bellabeat's marketing strategy, ultimately helping the company unlock new growth opportunities.
 
 ### Key Stakeholders
 1. Urška Sršen and Sando Mur:
