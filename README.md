@@ -62,6 +62,23 @@ dailySteps_merged.csv
 sleepDay_merged.csv
 weightLogInfo_merged.csv
 
+For this project, I chose to use Google Sheets as the primary processing tool. While coding languages offer automation, spreadsheet analysis provides rapid iteration, allowing me to manipulate the data and validate the data for cleaning.
+
+It also ensures that the data can be easily understood by non-technical stakeholders, bridging the gap between raw backend data and final executive reporting.
+
+### Data Cleaning & Transformation Steps
+
+**Data Normalization**: I aligned inconsistent Date/Time formats across datasets by separating the timestamps and applying standardized date formatting to ensure valid data merging.
+
+Data Integrity Audit: I conducted an audit to identify and handle duplicate records and missing values. Where missing data was identified, I used IFERROR logic to handle null values as 0, preventing skew in aggregate calculations.
+
+Relational Merging: I established a unique "Helper Key", which is a combination of Id + Date, to perform VLOOKUP operations. This allowed me to merge user activity metrics with sleep logs, enabling cross-functional analysis.
+
+Verification: After every manipulation, I performed a "spot-check" validation against the original raw files to ensure 100% data fidelity.
+
+
+
+
 
 
 
