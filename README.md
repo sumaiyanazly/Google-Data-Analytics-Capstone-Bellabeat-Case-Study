@@ -79,6 +79,9 @@ It also ensures that the data can be easily understood by non-technical stakehol
 
 ## 3. Process
 
+In this step, I processed the data to keep the formats consistent across the files.
+
+
 ### Data Cleaning & Transformation Steps
 
 **Data Normalization**: I aligned inconsistent Date/Time formats across datasets by separating the timestamps and applying standardized date formatting to ensure valid data merging.
@@ -95,19 +98,26 @@ It also ensures that the data can be easily understood by non-technical stakehol
 Now that the data has been cleaned and normalised, I can look for trends and relationships within the dataset 
 
 ### Analysis 1- User Activity levels across the week
-From this analysis, I am able to see that there is a distinct flucuation between the user activity throught the week
+From this analysis, I was able to uncover the "Sunday Effect" across the users. This indicates a clear shift in the users's lifestyle routine towards the end of the week 
 
-**Trend 1** : User Activity peaked on Saturdays and the lowest point was to be found on Sundays 
-
-
-**Buisness Insight** : This slump may suggest that users may priortize rest or may have different routines at the end of the week.
+**Trends** : User Activity is seen to be the lowest on Sunday but it has the maximum sleep duration. This shows that the users use Sundays as a Recovery phase. On the otherhand, Mondays have an increased activity level but less sleep duration.
 
 
-**Marketing Reccomendation** : Bellabeat could use this insights to promote a more relaxed approach such as a "Sunday Reset" notifiation to encourage the users to do some light activities such as yoga to increase app engagement.
+**Buisness Insight** : This pattern suggests that users may be experiencing stress when starting the work week, that may be resulting in a difficulty maintaining a quality sleep as the work week begins.
 
-<img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/6723464a-0486-44ed-b9fc-0738dd316d61" />
 
-Fig 1. Pivot table for Analysis 1 
+**Marketing Reccomendation** : Bellabeat could use this insights to promote a more relaxed approach such as a "Sunday Reset" notifiation to encourage the users to do some light activities such as yoga and an earlier bedtime on Sunday. This could also inlcude mindfullness excercises on Monday Mornings to increase app engagement.
+
+<img width="392" height="270" alt="image" src="https://github.com/user-attachments/assets/6723464a-0486-44ed-b9fc-0738dd316d61" /> 
+
+
+Fig 1. Pivot table - User Activity 
+
+
+<img width="392" height="266" alt="image" src="https://github.com/user-attachments/assets/72a9f1f9-1d12-4219-b319-54485543891f" />
+
+
+Fig 1. Pivot table - Sleep Minutes 
 
 
 
