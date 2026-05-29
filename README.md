@@ -121,6 +121,19 @@ Fig 2. Pivot table - Sleep Minutes
 
 
 
+### User Segmentation & Persona Analysis
+To move beyond aggregate trends, I sorted user behavior to identify engagement patterns. By sorting users based on average daily activity (steps) and sleep duration, I was able to see between:
+
+
+High-Engagement Users: Users have consistent high steps counts with reliable sleep data. This is the target demogrpahic for users for product benchmarking.
+
+
+The Tracking Gap Segment: A subset of users have high physical activity but does not show consistent sleep data. This insight tells is there a discrepancy with the recording of the sleep data. This is a key area for the UI/UX team for improvement, where they can enhance the sleep-tracking system or create an automatic system to capture this data.
+
+
+
+The At-Risk Group: Users with low baseline activity and inconsistent metrics, representing a prime audience for re-engagement in the upcoming marketing campaigns.
+
 
 
 
