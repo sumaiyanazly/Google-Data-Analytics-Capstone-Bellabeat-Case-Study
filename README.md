@@ -120,19 +120,30 @@ Fig 1. Pivot table - User Activity
 Fig 2. Pivot table - Sleep Minutes 
 
 
-
 ### User Segmentation & Persona Analysis
 To move beyond aggregate trends, I sorted user behavior to identify engagement patterns. By sorting users based on average daily activity (steps) and sleep duration, I was able to see between:
 
 
-High-Engagement Users: Users have consistent high steps counts with reliable sleep data. This is the target demogrpahic for users for product benchmarking.
+- High-Engagement Users: Users have consistent high steps counts with reliable sleep data. This is the target demogrpahic for users for product benchmarking.
 
 
-The Tracking Gap Segment: A subset of users have high physical activity but does not show consistent sleep data. This insight tells is there a discrepancy with the recording of the sleep data. This is a key area for the UI/UX team for improvement, where they can enhance the sleep-tracking system or create an automatic system to capture this data.
+- The Tracking Gap Segment**: A subset of users have high physical activity but does not show consistent sleep data. This insight tells is there a discrepancy with the recording of the sleep data. This is a key area for the UI/UX team for improvement, where they can enhance the sleep-tracking system or create an automatic system to capture this data.
 
 
 
-The At-Risk Group: Users with low baseline activity and inconsistent metrics, representing a prime audience for re-engagement in the upcoming marketing campaigns.
+- The At-Risk Group: Users with low baseline activity and inconsistent metrics, representing a prime audience for re-engagement in the upcoming marketing campaigns.
+
+### Final Findings: Metabolic Impact
+
+As a final Analysis, I did a cross-variable analysis of the actvity intensity vs calorie burn, which revealed a specific user segment I am calling the "Busy Professionals."
+
+
+- The Finding: High calorie burn is strongly correlated with high VeryActiveMinutes, even when SedentaryMinutes are also high.
+
+- The Insight: This suggests that the highest-performing users are not necessarily only those who are "active all day" but those who participate in high-intensity, workouts despite having sedentary professional lives.
+
+- Strategic Recommendation: Bellabeat should shift marketing focus away from "total daily movement" and toward "Time-Efficient Intensity." They can implement features like "15-minute HIIT workouts" or "post-work recovery sessions" that would be highly relevant and helpful for the high-value, busy user segment.
+
 
 
 
