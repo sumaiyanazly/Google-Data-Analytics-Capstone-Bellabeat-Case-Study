@@ -148,7 +148,14 @@ As a final Analysis, I did a cross-variable analysis of the actvity intensity vs
 
 ## 5. Share
 
+After I had cleaned and prepared .csv file, I was able to create visualizations of the data in Tableau, that can be used to translate actionable insights for non-technical stakeholders
 
+
+Figure 1: Temporal trends showing the "Sunday Effect" on sleep and activity.
+
+Figure 2: Scatter plot visualization of user clusters based on activity and sleep habits.
+
+Interactive Dashboard: [INSERT LINK TO TABLEAU PUBLIC HERE]
 
 
 6. Limitations of Analysis
@@ -164,6 +171,14 @@ Gamification Strategy: Based on the "High-Performer" segment, introduce "Weekend
 Smart Recovery Features: Given the "Sunday Sleep Peak," develop a feature that suggests a "Monday Morning Readiness Score." This would analyze the user's Sunday sleep data and provide an encouraging push notification to start the week with a light, achievable goal.
 
 Device "Auto-Sleep" Improvement: To address the "Activity-Only" segment (high steps, no sleep data), research indicates that manual sleep logging is a friction point. I recommend Bellabeat invest in "Auto-Detection" algorithms to improve data capture rates for this group.
+
+Time-Efficient Marketing: Promote "15-minute high-intensity" workouts rather than "total steps," targeting the "Busy Professional" segment.
+
+Monday Morning Engagement: Introduce gentle "start-of-week" push notifications on Sunday nights or Monday mornings to capture users during their recovery phase.
+
+Sleep Tracking Optimization: Implement "smart reminders" for sleep tracking, specifically targeted at users who have high activity levels but no corresponding sleep data.
+
+Gamification Strategy: Introduce "Weekend Warrior" challenges to bridge the gap in activity observed on Sundays.
 
 
 
