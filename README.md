@@ -146,7 +146,24 @@ As a final Analysis, I did a cross-variable analysis of the actvity intensity vs
 
 
 
+## 5. Share
 
+
+
+
+6. Limitations of Analysis
+Sample Size: The dataset represents a limited number of users (30 individuals), which may not be representative of the broader population of smart device users.
+
+Demographic Data: The lack of demographic information (age, gender, occupation, location) limits our ability to segment users by lifestyle or socioeconomic factors.
+
+Data Integrity: The presence of missing sleep logs (0 values) required manual filtering, which may exclude specific user behaviors that were simply not captured by the device.
+
+7. Enhanced Strategic Recommendations
+Gamification Strategy: Based on the "High-Performer" segment, introduce "Weekend Warrior" challenges. Since activity drops on Sundays, a weekend-long step challenge could bridge the gap and keep engagement levels high.
+
+Smart Recovery Features: Given the "Sunday Sleep Peak," develop a feature that suggests a "Monday Morning Readiness Score." This would analyze the user's Sunday sleep data and provide an encouraging push notification to start the week with a light, achievable goal.
+
+Device "Auto-Sleep" Improvement: To address the "Activity-Only" segment (high steps, no sleep data), research indicates that manual sleep logging is a friction point. I recommend Bellabeat invest in "Auto-Detection" algorithms to improve data capture rates for this group.
 
 
 
