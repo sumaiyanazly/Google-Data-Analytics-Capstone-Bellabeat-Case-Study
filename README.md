@@ -151,11 +151,20 @@ As a final Analysis, I did a cross-variable analysis of the actvity intensity vs
 After I had cleaned and prepared .csv file, I was able to create visualizations of the data in Tableau, that can be used to translate actionable insights for non-technical stakeholders
 
 
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/adac7405-db2c-440f-b4bb-247ee086f3aa" />
+
+
 Figure 1: Temporal trends showing the "Sunday Effect" on sleep and activity.
+
+
+
+
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b0121c1c-b94d-4109-8f53-7bb8120e987e" />
+
 
 Figure 2: Scatter plot visualization of user clusters based on activity and sleep habits.
 
-Interactive Dashboard: [INSERT LINK TO TABLEAU PUBLIC HERE]
+[Interactive Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 6. Limitations of Analysis
