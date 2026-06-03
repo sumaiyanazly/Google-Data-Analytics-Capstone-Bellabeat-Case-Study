@@ -6,6 +6,9 @@ This Article will show how I approached and completed the Case Study where I wil
 
 ## Quick Links 
 
+
+[Interactive Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Table of Contents 
 
 ## Introduction
@@ -148,7 +151,9 @@ As a final Analysis, I did a cross-variable analysis of the actvity intensity vs
 
 ## 5. Share
 
-After I had cleaned and prepared .csv file, I was able to create visualizations of the data in Tableau, that can be used to translate actionable insights for non-technical stakeholders
+After I had cleaned and prepared .csv file, I was able to create visualizations of the data in Tableau, that can be used to translate actionable insights for non-technical stakeholders.
+
+This is the link to my [Interactive Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/adac7405-db2c-440f-b4bb-247ee086f3aa" />
@@ -157,36 +162,67 @@ After I had cleaned and prepared .csv file, I was able to create visualizations 
 Figure 1: Temporal trends showing the "Sunday Effect" on sleep and activity.
 
 
+This graph shows the weekly transition point, where the weekday activity is consistent, users prefer to sleep more on Sundays as a way to prepare for the upcoming week.
+
+
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/580e00f2-c673-47ca-be16-4eeaf8d9c513" />
+
+Figure 2: 
 
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b0121c1c-b94d-4109-8f53-7bb8120e987e" />
 
 
-Figure 2: Scatter plot visualization of user clusters based on activity and sleep habits.
-
-[Interactive Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Figure 3: Scatter plot visualization of user clusters based on activity and sleep habits.
 
 
-6. Limitations of Analysis
-Sample Size: The dataset represents a limited number of users (30 individuals), which may not be representative of the broader population of smart device users.
+In this graph, we can see that there are 3 types of people:
 
-Demographic Data: The lack of demographic information (age, gender, occupation, location) limits our ability to segment users by lifestyle or socioeconomic factors.
+- **High Performers** : Also known as the consistency seekers, these are the users that use their smart devices as a professional tool for tracking their steps and sleep. Their data gives us what a fully engaged person looks like and acts a benchmark for our success
 
-Data Integrity: The presence of missing sleep logs (0 values) required manual filtering, which may exclude specific user behaviors that were simply not captured by the device.
+- **Busy Professional**: These group of users are our Intensity seekers, where the users priortise high-impact, short duration workouts over low-impact,  long duration steps.
 
-7. Enhanced Strategic Recommendations
-Gamification Strategy: Based on the "High-Performer" segment, introduce "Weekend Warrior" challenges. Since activity drops on Sundays, a weekend-long step challenge could bridge the gap and keep engagement levels high.
+- **At Risk Users**: The data collected from these users have gaps in their sleep tracking and have a low baseline activity rate (Habit Seekers). This can indicate that the device is currently too difficult for them to integrate into their daily routine. This represents our greatest oppurunity for growth as the team can develop simple, low-effort habit building features to encourage them to use the Bellabeat device more 
 
-Smart Recovery Features: Given the "Sunday Sleep Peak," develop a feature that suggests a "Monday Morning Readiness Score." This would analyze the user's Sunday sleep data and provide an encouraging push notification to start the week with a light, achievable goal.
 
-Device "Auto-Sleep" Improvement: To address the "Activity-Only" segment (high steps, no sleep data), research indicates that manual sleep logging is a friction point. I recommend Bellabeat invest in "Auto-Detection" algorithms to improve data capture rates for this group.
+## 6. Limitations of Analysis
+Sample Size: The dataset represents a limited number of users (33 individuals), which may not be representative of the bigger population of smart device users.
 
-Time-Efficient Marketing: Promote "15-minute high-intensity" workouts rather than "total steps," targeting the "Busy Professional" segment.
+Demographic Data: The lack of demographic information such as age, gender, occupation and location limits our ability to group the users by lifestyle factors.
 
-Monday Morning Engagement: Introduce gentle "start-of-week" push notifications on Sunday nights or Monday mornings to capture users during their recovery phase.
+Data Integrity: The presence of missing sleep logs (0 values) required me to manually filter out the data, which may exclude specific user behaviors that were not captured by the device.
 
-Sleep Tracking Optimization: Implement "smart reminders" for sleep tracking, specifically targeted at users who have high activity levels but no corresponding sleep data.
 
-Gamification Strategy: Introduce "Weekend Warrior" challenges to bridge the gap in activity observed on Sundays.
+## 7. Act
+
+My Analysis concluded that Bellabeat's user base is a collection of distinct user cycles. We can see that engagement is not driven by total steps as user takes but by behavioural intent which can be seen in the sunday reset cycle and clear user spefic motivations. The final conclusion is that Bellabeat much switch towards a Active engagement where they would deliver value based on the trends in the behavioral patterns to drive long term retention and growth. 
+
+
+Instead of creating a "one size fits all" marketing approach, the team should shift to targetted messaging for each user group type. As an example, the Busy Professionals, the team should emphasize on the high-impact, time efficient workouts to keep those users engaged. The At-Risk users, the focus should be on low-friction, achievable habit-building goals to get them to start improving their sleep duration and step count.
+
+
+To make use of the Sunday reset, the marketing team can use this period to focus on getting the users for re-engagement as this is when the users would be more receptive to review their data and make their plan for the week.
+
+
+My Strategic Recommendations would be to: 
+
+
+- Pivot to "Intensity" Messaging: For the "Busy Professional" section of users, the marketing team should discontinue generic step-count advertising. Instead, they can run campaigns emphasizing "15-Minute High-Intensity" workouts, which align with their lifestyle and will push for higher engagemnt with the  application.
+
+
+- The "Sunday Refresh" Campaign: Marketing should utilize the Sunday "Recovery Cycle" as the primary window for high-engagement content. By launching a "Sunday Refresh" push-notification series that will encourages users to review their weekly progress and set new goals for the upcoming week, which capitalizes on the peak sleep behavior observed. 
+
+
+- Lower the Barrier to Entry: For the "At-Risk" users segment, marketing team should move away from demanding long-term commitment habits and instead focus on "Micro-Habits" which promote 5-minute movement goals rather than daily step targets to reduce friction and improve retention.  
+
+
+- Social Media Creative Strategy: Update social media advertisements to feature different the personas of users; show the "Busy Professional" doing a quick workout at home, and the "At-Risk" user enjoying a gentle, achievable walk, ensuring users see themselves in the product.
+
+
+- Sleep Tracking Optimization: Implement "smart reminders" for sleep tracking, specifically targeted at users who have high activity levels but no corresponding sleep data, to keep the data consistent.
+
+
+
+
 
 
 
