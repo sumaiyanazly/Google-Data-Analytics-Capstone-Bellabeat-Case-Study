@@ -158,7 +158,6 @@ Figure 1: Temporal trends showing the "Sunday Effect" on sleep and activity.
 
 
 
-
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b0121c1c-b94d-4109-8f53-7bb8120e987e" />
 
 
