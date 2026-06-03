@@ -9,7 +9,7 @@ This Article will show how I approached and completed the Case Study where I wil
 
 [Tabeleau Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Excel Sheet for Case Study 2 ](https://docs.google.com/spreadsheets/d/17ReU0N6lscBcZFMxlsiqwbWYk52OaArP2U6Yx1DdIkA/edit?usp=sharing)
+[Google Sheet for Case Study 2 ](https://docs.google.com/spreadsheets/d/17ReU0N6lscBcZFMxlsiqwbWYk52OaArP2U6Yx1DdIkA/edit?usp=sharing)
 
 [Google Data Analytics Professional Certificate course on Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
@@ -83,6 +83,8 @@ weightLogInfo_merged.csv
 For this project, I chose to use Google Sheets as the primary processing tool. While coding languages offer automation, spreadsheet analysis provides rapid iteration, allowing me to manipulate the data and validate the data for cleaning.
 
 It also ensures that the data can be easily understood by non-technical stakeholders, bridging the gap between raw backend data and final executive reporting.
+
+This is the link to my [Google sheets file](https://docs.google.com/spreadsheets/d/17ReU0N6lscBcZFMxlsiqwbWYk52OaArP2U6Yx1DdIkA/edit?usp=sharing)
 
 
 ## 3. Process
