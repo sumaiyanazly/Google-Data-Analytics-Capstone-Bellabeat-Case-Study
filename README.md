@@ -7,7 +7,12 @@ This Article will show how I approached and completed the Case Study where I wil
 ## Quick Links 
 
 
-[Interactive Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tabeleau Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17803025750720/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Excel Sheet for Case Study 2 ](https://docs.google.com/spreadsheets/d/17ReU0N6lscBcZFMxlsiqwbWYk52OaArP2U6Yx1DdIkA/edit?usp=sharing)
+
+[Google Data Analytics Professional Certificate course on Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+
 
 ## Table of Contents 
 
@@ -167,7 +172,10 @@ This graph shows the weekly transition point, where the weekday activity is cons
 
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/580e00f2-c673-47ca-be16-4eeaf8d9c513" />
 
-Figure 2: 
+Figure 2: Metabolic Impact demonstrates the positive correlation between 'Very Active Minutes' and 'Avg. Calories' burned.
+
+The visualization highlights that as the duration of high-intensity activity increases, the average calories burnt increases, which confirms that activity intensity is a primary driver of metabolic output.
+
 
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b0121c1c-b94d-4109-8f53-7bb8120e987e" />
 
